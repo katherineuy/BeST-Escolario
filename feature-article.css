@@ -165,7 +165,7 @@ a:active{
     left: 300px;
     font-family: 'Raleway', sans-serif;
     font-size: 25px;
-    text-transform: lowercase;
+    text-transform: none;
 }
 
 .byline{
